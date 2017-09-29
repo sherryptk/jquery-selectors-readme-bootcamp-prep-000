@@ -1,6 +1,4 @@
-$(document).ready(function() {
-  // code to be executed goes here
-  $('img')
+function paragraphSelector(){
 
-})
-
+  return $('p')
+}
